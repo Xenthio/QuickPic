@@ -1,3 +1,2 @@
 # QuickPic
-# QuickPic
-# QuickPic
+todo write readme
